@@ -14,6 +14,9 @@ Objectives
 	4.	Enhance User Experience with Navigation
 	•	Implement interactive buttons using bookmarks for dashboard navigation.
 	•	Include page navigation for multiple dashboards.
+![Screenshot_11-2-2025_21850_](https://github.com/user-attachments/assets/ac5102de-20d0-4065-a060-0908c470cbde)
+
+
 
 Key Features
 
