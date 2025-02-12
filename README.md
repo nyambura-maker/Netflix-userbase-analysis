@@ -1,12 +1,14 @@
 # Netflix-userbase-analysis
 
-**Authors**
+# Authors
 
-*<a href="https://github.com/nyambura-maker">Janenyambura</a>
+* <a href="https://github.com/nyambura-maker">Janenyambura</a>
 
+# Project overview
 
 This project is a project designed to analyze and visualize the Netflix userbase, providing insights into user demographics, revenue trends, and subscription behaviors. The process involed in creating this includes; data preparation, data cleaning and visualization.
-Objectives
+
+# Objectives
 	1.	Understand Netflix’s User Demographics
 	•	Analyze the number of users, their average age, and gender distribution.
 	•	Identify how revenue varies by age groups.
@@ -25,31 +27,45 @@ Objectives
 
 <a href="https://github.com/nyambura-maker/Netflix-userbase-analysis/commit/816bdefdfb4517b423306aa05454239c90398f74">Dataset</a>
 
+# Dashbord
+![Screenshot_12-2-2025_181735_](https://github.com/user-attachments/assets/ce1cbd4b-27a8-4c36-8e18-b10ec3942ce0)
 
-Key Features
+This Netflix Userbase Dashboard provides a clear and interactive representation of user behavior and revenue patterns, making it a valuable tool for business decision-making. The use of Power BI’s dynamic features, such as bookmarks and page navigation, enhances the usability of the report, allowing users to explore key metrics effortlessly.
 
-✅ User Demographics Section
+**Key Features**
+
+ **User Demographics Section**
 	•	Number of countries represented.
 	•	Total user count and average age.
 	•	Gender-based revenue comparison (Pie Chart).
 
-✅ Revenue Analysis
+ **Revenue Analysis**
 	•	Monthly revenue trends by last payment date and join date (Line Charts).
 	•	Revenue breakdown by device (Bar Chart).
 	•	Subscription-based revenue comparison.
 
-✅ Interactivity & User Navigation
+ **Interactivity & User Navigation**
 	•	Dropdown filters for country, gender, and age range.
 	•	Bookmarks & page navigation for a seamless user experience.
 	•	Buttons to switch between different dashboard views.
 
-Tools Used
+**Tools Used**
 	•	Power BI (for data visualization and interactivity).
 	•	DAX (Data Analysis Expressions) (for calculated metrics).
 	•	Power Query (for data transformation and modeling).
+ # Key Insights:
+• User Distribution: The average age of Netflix users is 38.8 years, with the highest revenue coming from users aged 30-40.
+• Revenue by Device: Laptops and tablets generate the highest monthly revenue, followed by smartphones and smart TVs.
+• Subscription Trends: The Basic plan contributes the highest revenue, followed by Standard and Premium subscriptions.
+• Gender Revenue Share: Revenue is evenly split between male (50.32%) and female (49.68%) users.
+• Payment Trends: Monthly revenue has shown a slight decline over recent payment dates, indicating possible fluctuations in user retention or
+subscription renewals.
 
-Conclusion
+# Recommendations:
+• Target younger users (ages 25-35) with mobile-friendly plans to increase engagement.
+• Enhance smart TV experience to boost revenue from TV users.
+• Analyze subscription churn to understand why payments are declining and improve retention.
 
-This Netflix Userbase Dashboard provides a clear and interactive representation of user behavior and revenue patterns, making it a valuable tool for business decision-making. The use of Power BI’s dynamic features, such as bookmarks and page navigation, enhances the usability of the report, allowing users to explore key metrics effortlessly.
 
-Would you like to add a data sources section or any business recommendations based on the analysis?
+
+
