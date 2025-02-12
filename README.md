@@ -1,5 +1,5 @@
 # Netflix-userbase-analysis
-##Authors *
+**authors** 
 
 <a href="https://github.com/nyambura-maker">Janenyambura</a>
 
