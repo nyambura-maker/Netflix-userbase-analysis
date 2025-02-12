@@ -12,19 +12,24 @@ This project is a project designed to analyze and visualize the Netflix userbase
 1.	Understand Netflix’s User Demographics
 
 	•	Analyze the number of users, their average age, and gender distribution.
+
 	•	Identify how revenue varies by age groups.
 3.	Track Revenue Trends
    
 	•	View total monthly revenue and trends over time.
+
 	•	Compare revenue contributions based on payment dates and join dates.
 5.	Analyze Subscription Behavior
    
 	•	Identify the most popular devices used for streaming (Laptop, Tablet, Smartphone, Smart TV).
+
 	•	Compare revenue distribution by subscription type (Basic, Standard, Premium).
+
 	•	Determine the most common subscription plan duration.
 7.	Enhance User Experience with Navigation
    
 	•	Implement interactive buttons using bookmarks for dashboard navigation.
+
 	•	Include page navigation for multiple dashboards.
 
 **Data used**
