@@ -1,7 +1,8 @@
 # Netflix-userbase-analysis
-**authors** 
+**Authors**
+___
 
-<a href="https://github.com/nyambura-maker">Janenyambura</a>
+*<a href="https://github.com/nyambura-maker">Janenyambura</a>
 
 
 This project is a project designed to analyze and visualize the Netflix userbase, providing insights into user demographics, revenue trends, and subscription behaviors. The process involed in creating this includes; data preparation, data cleaning and visualization.
@@ -20,7 +21,7 @@ Objectives
 	•	Implement interactive buttons using bookmarks for dashboard navigation.
 	•	Include page navigation for multiple dashboards.
 
-data used.
+**Data used**
 
 <a href="https://github.com/nyambura-maker/Netflix-userbase-analysis/commit/816bdefdfb4517b423306aa05454239c90398f74">Dataset</a>
 
